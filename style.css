@@ -1,0 +1,57 @@
+p {
+    color: white;
+}
+
+
+.firstline {
+    color: #FD9827;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.description {
+    text-align: center;
+    height: 50px;
+    width: auto
+}
+
+
+.firstquestion {
+    text-align: center;
+    width: auto;
+    height: 50px;
+
+}
+
+
+.secondquestion {
+    text-align: center;
+    height: 50px;
+    width: auto
+
+}
+
+.thirdquestion {
+    text-align: center;
+    height: 50px;
+    width: auto
+
+}
+
+
+.fourthquestion {
+    text-align: center;
+    height: 50px;
+    width: auto
+
+}
+
+hr {
+    width: 400px;
+}
+
+.box {
+    width: 500px;
+    height: 500px;
+    margin: auto;
+}
