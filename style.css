@@ -1,5 +1,6 @@
 p {
     color: white;
+    font-family: "arial", serif, sans-serif;
 }
 
 
@@ -56,6 +57,12 @@ hr {
     margin: auto;
     background-color: #FD9827;
     text-align: center;
+    border-radius: 25px;
 }
 
+form {
+    text-align: center;
+    padding: 20px;
+    
+}
 
