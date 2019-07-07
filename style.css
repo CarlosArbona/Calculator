@@ -18,32 +18,36 @@ p {
 
 
 .firstquestion {
-    text-align: left;
+    text-align: center;
     width: auto;
     height: 20px;
+    margin: auto;
 
 }
 
 
 .secondquestion {
-    text-align: left;
+    text-align: center;
     height: 20px;
-    width: auto
+    width: auto;
+    margin: auto;
 
 }
 
 .thirdquestion {
-    text-align: left;
+    text-align: center;
     height: 20px;
-    width: auto
+    width: auto;
+    margin: auto;
 
 }
 
 
 .fourthquestion {
-    text-align: left;
+    text-align: center;
     height: 20px;
-    width: auto
+    width: auto;
+    margin: auto;
 
 }
 
@@ -61,9 +65,48 @@ hr {
 }
 
 form {
-    text-align: left;
+    text-align: center;
     padding: 10px;
     color: white;
+    margin: auto;
+    
 }
 
 
+
+
+#mydiv-container {
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, sans-serif;
+    text-align: center;
+
+}
+#mydiv-content {
+    width: 70%;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #6089F7;
+    font-family: Arial, sans-serif;
+    text-align: center;
+
+
+}
+a {
+    color: #5874BF;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    text-align: center;
+
+
+}
+a:hover {
+    color: #112763;
+    font-family: Arial, sans-serif;
+    text-align: center;
+
+
+}
+.submit button {
+
+}
